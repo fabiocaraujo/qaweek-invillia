@@ -1,4 +1,4 @@
-QA WEEK Invillia
+QA Week Invillia
 
 21 de novembro de 2021
 Como otimizar a criação de cenários com técnicas de testes.
